@@ -1,4 +1,5 @@
 ##🛒 Carrinho de Compras (Pink Cart)
+
 Um sistema de simulação de carrinho de compras desenvolvido em Node.js, utilizando módulos ES6 (import/export) para gerenciar itens, quantidades e cálculos de subtotais.
 
 📋 Funcionalidades
